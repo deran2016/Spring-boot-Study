@@ -15,4 +15,6 @@ public class Notice {
     private String date;
 
     private int views;
+
+    private String href;
 }
